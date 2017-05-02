@@ -1,5 +1,5 @@
 # Yelp-Personalized-Recommendation
-
+## EECS 6895 Final Project. Xun Xue, Zhangyu Liu, Lingyu Zhang
 ## LDA
 1.Put a the dataset in the LDA folder and run buildmodel.py
 
